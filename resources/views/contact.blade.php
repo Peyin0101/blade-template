@@ -1,7 +1,7 @@
 <x-layout>
         <!-- Content -->
         <section id="content" class="main">
-            <span class="image main"><img src="images/pic04.jpg" alt="" /></span>
+            <span class="image main"><img src="{{ asset('images/pic04.jpg') }}" alt="" /></span>
 
             <h2>Contact us</h2>
             <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur

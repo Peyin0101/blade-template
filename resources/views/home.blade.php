@@ -11,7 +11,7 @@
                         <li><a href="{{ route('about') }}" class="button">Learn More</a></li>
                     </ul>
                 </div>
-                <span class="image"><img src="images/pic01.jpg" alt="" /></span>
+                <span class="image"><img src="{{ asset('images/pic01.jpg') }}" alt="" /></span>
             </div>
         </section>
 
